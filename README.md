@@ -10,7 +10,7 @@
 - [Project Overview](#project-overview)
 - [Objectives](#-objectives)
 - [Dataset Description](#-dataset-description)
-- [Dashboard Features](#dashboard-features)
+- [Dashboard Features](#-dashboard-features)
 - [Tools Used](#-tools-used)
 - [Repository Structure](#-repository-structure)
 - [Getting Started](#️-getting-started)
