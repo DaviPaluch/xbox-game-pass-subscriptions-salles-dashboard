@@ -8,12 +8,12 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Objectives](#objectives)
-- [Dataset Description](#dataset-description)
+- [Objectives](#-objectives)
+- [Dataset Description](#-dataset-description)
 - [Dashboard Features](#dashboard-features)
-- [Tools Used](#tools-used)
-- [Repository Structure](#repository-structure)
-- [Getting Started](#getting-started)
+- [Tools Used](#-tools-used)
+- [Repository Structure](#-repository-structure)
+- [Getting Started](#️-getting-started)
 - [License](#license)
 
 ## Project Overview
